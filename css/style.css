@@ -135,7 +135,7 @@ h4 {
 
 }
 
-.last:last-child {
+.last .card:last-child {
 	margin-bottom: 50px;
 }
 
@@ -145,14 +145,15 @@ h4 {
   background-color: #a2a4a7;
   border-radius: .35em;
   margin: .25em;
+  letter-spacing: -.05em;
 }
 
 .desc-text {
-  font-size: .75em;
+  font-size: .65em;
   font-weight: normal;
   line-height: 1.2em;
   text-align: left;
-  height: 140px;
+  height: 120px;
 }
 
 .desc-text,
