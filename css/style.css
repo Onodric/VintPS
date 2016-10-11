@@ -131,8 +131,32 @@ h4 {
 }
 
 
+/**************************Contact STYLES*********************************************/
+
+.social_media {
+	margin:0;
+	padding:0;
+	list-style-type: none;
+}
+
+#map {
+	border: 3px solid black;
+}
+
+#facebook {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
 
 
+}
+
+#twitter {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
 
 
 
