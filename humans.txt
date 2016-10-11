@@ -1,0 +1,4 @@
+Trent Hand - About Us and JavaScript
+Ben Marks - Products matrix and JavaScript, Team Lead
+Ike Nwaelele - Find Us and JavaScript
+Richard Whitfield - Landing Page, CSS, and JavaScript
