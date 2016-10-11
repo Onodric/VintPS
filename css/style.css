@@ -122,9 +122,13 @@ h4 {
 
 
 
+/**************************About STYLES*********************************************/
 
 
-
+.familyPhoto {
+	text-align: center;
+	font-style: italic;
+}
 
 
 
