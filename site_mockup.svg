@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1440"
+   height="900"
+   viewBox="0 0 1440 900.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="site_mockup.svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4350"
+       x="-0.028738638"
+       width="1.0574773"
+       y="-0.028738638"
+       height="1.0574773">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8908462"
+         id="feGaussianBlur4352" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4354"
+       x="-0.0069478026"
+       width="1.0138956"
+       y="-0.0069478026"
+       height="1.0138956">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8908462"
+         id="feGaussianBlur4356" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4358"
+       x="-0.028738638"
+       width="1.0574773"
+       y="-0.028738638"
+       height="1.0574773">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8908462"
+         id="feGaussianBlur4360" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64579974"
+     inkscape:cx="732.51565"
+     inkscape:cy="386.58302"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-152.36216)">
+    <rect
+       style="opacity:0.2;fill:#a7a2a3;fill-opacity:1;stroke:#6d6d6d;stroke-width:2.11723089;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4136"
+       width="1279.8257"
+       height="1068.7903"
+       x="84.569405"
+       y="69.786995" />
+    <circle
+       style="opacity:0.2;fill:#a7a2a3;fill-opacity:1;stroke:#464447;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4354)"
+       id="path4138"
+       cy="614.83337"
+       cx="723.87183"
+       r="326.58029" />
+    <circle
+       style="opacity:0.2;fill:#a7a2a3;fill-opacity:1;stroke:#464447;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4350)"
+       id="path4138-8"
+       cy="875.021"
+       cx="380.24475"
+       r="78.953476" />
+    <circle
+       style="opacity:0.2;fill:#a7a2a3;fill-opacity:1;stroke:#464447;stroke-width:4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4358)"
+       id="path4138-8-5"
+       cy="875.02094"
+       cx="1069.2933"
+       r="78.953476" />
+    <rect
+       style="opacity:0.2;fill:#a7a2a3;fill-opacity:1;stroke:#6d6d6d;stroke-width:2.66569948;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4178"
+       width="1584.4318"
+       height="154.90254"
+       x="-61.888748"
+       y="116.7488" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#464447;stroke-width:3;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4192"
+       width="1104.9392"
+       height="466.87573"
+       x="177.85742"
+       y="320.92349" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4140"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Gadugi;-inkscape-font-specification:Gadugi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(333.48267,465.83587)"><flowRegion
+         id="flowRegion4142"><rect
+           id="rect4144"
+           width="1851.9403"
+           height="151.1788"
+           x="-113.38411"
+           y="-100.44802"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Gadugi;-inkscape-font-specification:Gadugi" /></flowRegion><flowPara
+         id="flowPara4146">ps grey #A7A2A3    ps red #ED292F      ps blue #008CD6  ps teal #00B59D  ps dark grey #464447</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#464447;fill-opacity:1;stroke:#a7a3a2;stroke-width:2.41219187;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4194"
+       width="122.95752"
+       height="30.739397"
+       x="751.89203"
+       y="202.12807"
+       rx="8.0406389" />
+    <rect
+       style="opacity:1;fill:#464447;fill-opacity:1;stroke:#a7a3a2;stroke-width:2.41219187;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4194-3"
+       width="122.95752"
+       height="30.739397"
+       x="1038.6752"
+       y="200.62465"
+       rx="8.0406389" />
+    <rect
+       style="opacity:1;fill:#464447;fill-opacity:1;stroke:#a7a3a2;stroke-width:2.41219187;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4194-9"
+       width="122.95752"
+       height="30.739397"
+       x="893.07941"
+       y="200.71581"
+       rx="8.0406389" />
+    <rect
+       style="opacity:1;fill:#464447;fill-opacity:1;stroke:#a7a3a2;stroke-width:2.41219187;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4194-8"
+       width="122.95752"
+       height="30.739397"
+       x="1181.8003"
+       y="201.49004"
+       rx="8.0406389" />
+    <rect
+       style="opacity:0.2;fill:#a7a2a3;fill-opacity:1;stroke:#6d6d6d;stroke-width:2.66569948;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4178-3"
+       width="1584.4318"
+       height="154.90254"
+       x="-74.116508"
+       y="972.68768" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-120.05376"
+       y="14.119423"
+       id="text4262"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4264"
+         x="-120.05376"
+         y="14.119423"></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4140-2-8"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';letter-spacing:0px;word-spacing:0px;fill:#008cd6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.80406393,0,0,0.80406393,1006.0323,284.97342)"><flowRegion
+         id="flowRegion4142-9-0"><rect
+           id="rect4144-9-5"
+           width="1851.9403"
+           height="151.1788"
+           x="-113.38411"
+           y="-100.44802"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#008cd6;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4146-7-7">About Us</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4140-2-5"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';letter-spacing:0px;word-spacing:0px;fill:#00b59d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.80406393,0,0,0.80406393,1153.4153,285.31522)"
+       inkscape:transform-center-x="61.616476"
+       inkscape:transform-center-y="15.511844"><flowRegion
+         id="flowRegion4142-9-5"><rect
+           id="rect4144-9-1"
+           width="1851.9403"
+           height="151.1788"
+           x="-113.38411"
+           y="-100.44802"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#00b59d;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4146-7-4">Products</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4140-2-3"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';letter-spacing:0px;word-spacing:0px;fill:#ed292f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.80406393,0,0,0.80406393,1300.5621,285.17876)"><flowRegion
+         id="flowRegion4142-9-2"><rect
+           id="rect4144-9-9"
+           width="1851.9403"
+           height="151.1788"
+           x="-113.38411"
+           y="-100.44802"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#ed292f;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4146-7-1">Find Us</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#464447;fill-opacity:1;stroke:#a7a3a2;stroke-width:6.25026131;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4194-0"
+       width="283.64413"
+       height="89.464195"
+       x="101.86803"
+       y="165.57574"
+       rx="18.548521" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4140-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.74728775px;line-height:125%;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';letter-spacing:0px;word-spacing:0px;fill:#a7a2a3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.80406393,0,0,0.80406393,260.29144,264.41016)"><flowRegion
+         id="flowRegion4142-9"><rect
+           id="rect4144-9"
+           width="1851.9403"
+           height="151.1788"
+           x="-113.38411"
+           y="-100.44802"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.74728775px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#a7a2a3;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4146-7">VintPS</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4140-2-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.09143829px;line-height:125%;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';letter-spacing:0px;word-spacing:0px;fill:#ed292f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(777.43664,211.294)"><flowRegion
+         id="flowRegion4142-9-4"><rect
+           id="rect4144-9-6"
+           width="1489.0784"
+           height="121.55742"
+           x="-1.4482009"
+           y="-5.680203"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.09143829px;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';fill:#ed292f;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4146-7-0">Home</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4140-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:Gadugi;-inkscape-font-specification:Gadugi;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(706.28242,616.93469)"><flowRegion
+         id="flowRegion4142-0"><rect
+           id="rect4144-1"
+           width="1851.9403"
+           height="151.1788"
+           x="-113.38411"
+           y="-100.44802"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:Gadugi;-inkscape-font-specification:Gadugi" /></flowRegion><flowPara
+         id="flowPara4146-1">CONTENT</flowPara></flowRoot>  </g>
+</svg>
